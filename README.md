@@ -1,5 +1,8 @@
-### Hi there 👋
+## Olá 👋
 
+- :computer:📚🎓 Atualmente cursando: Tecnologia em análise e desenvolvimento de Sistemas(2019, 2022/1);
+- 📫 Para entrar em contato comigo: samuelamaro96746313@gmail.com
+- 🔧 Linkedln: https://www.linkedin.com/in/samuel-amaro/
 <!--
 **Samuel-Amaro/Samuel-Amaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
