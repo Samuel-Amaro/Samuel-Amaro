@@ -11,6 +11,13 @@
 
 - 📫 How to reach me **samuelamaro96746313@gmail.com**
 
+<h3>Check out my Front End Mentor Profile</h3>
+<p>
+  <a href="https://www.frontendmentor.io/profile/samuel-amaro" target="_blank"> 
+    <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" alt="icon front end mentor" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-amaro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-amaro/" height="30" width="40" /></a>
