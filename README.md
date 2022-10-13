@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **samuelamaro96746313@gmail.com**
 
+- My portfolio [Portfolio](https://samuel-amaro.github.io/portfolio-web/)
+
 ## Check out my Front End Mentor Profile
 
 <p>
@@ -46,7 +48,7 @@
 
 ### My Portfolio/Curriculum
 
-<a href="https://samuel-amaro.github.io/portefolio-website/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
+<a href="https://samuel-amaro.github.io/portfolio-web/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
 
 <hr/>
 
