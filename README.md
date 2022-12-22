@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Amaro</h1>
-<h3 align="center">Em busca de uma oportunidade como desenvolvedor front-end júnior ou traine</h3>
+<h3 align="center">Em busca de uma oportunidade como Desenvolvedor Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
-- 🌱 I’m currently learning 
+- 🌱 No momento estou aprendendo
   - HTML5 
   - JavaScript
   - CSS3
@@ -13,13 +13,13 @@
   - WEB Acessibility
   - TypeScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
-- 📫 How to reach me **samuelamaro96746313@gmail.com**
+- 📫 Como chegar até mim **samuelamaro96746313@gmail.com**
 
-- My portfolio [Portfolio](https://samuel-amaro.github.io/portfolio-web/)
+- Meu portfólio [Portfolio](https://samuel-amaro.github.io/portfolio-web/)
 
-## Check out my Front End Mentor Profile
+## Confira meu perfil da plataforma Front-End Mentor
 
 <p>
   <a href="https://www.frontendmentor.io/profile/samuel-amaro" target="_blank"> 
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## Connect with me
+## Conecte-se comigo
 
 <p align="left">
   <a href="https://linkedin.com/in/samuel-amaro/" target="blank">
@@ -56,7 +56,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### My Portfolio/Curriculum
+### Meu Portfólio/Currículo
 
 <a href="https://samuel-amaro.github.io/portfolio-web/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
 
