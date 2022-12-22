@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
-- 🌱 I’m currently learning **HTML5, JavaScript, CSS3, React, NPM, BEM Metodology**
+- 🌱 I’m currently learning 
+  - HTML5 
+  - JavaScript
+  - CSS3
+  - React
+  - NPM
+  - BEM Metodology CSS
+  - WEB Acessibility
+  - TypeScript
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
