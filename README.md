@@ -8,6 +8,8 @@
   - JavaScript
   - CSS3
   - React
+    - hooks
+    - router-dom library   
   - NPM
   - BEM Metodology CSS
   - WEB Acessibility
