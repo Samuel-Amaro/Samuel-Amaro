@@ -8,12 +8,16 @@
   - JavaScript
   - CSS3
   - React
-    - hooks
+    - hooks API
     - router-dom library   
+    - Context API
   - NPM
   - BEM Metodology CSS
   - WEB Acessibility
   - TypeScript
+  - Server Side
+    - Express/Node
+    - Mongoose
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
