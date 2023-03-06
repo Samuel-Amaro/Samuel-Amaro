@@ -1,5 +1,11 @@
 <h1 align="center">Olá 👋, sou Samuel Amaro</h1>
-<h3 align="center">⚠️ Em busca de uma oportunidade como Desenvolvedor Front-End</h3>
+<h3 align="center">Desenvolvedor Front-End</h3>
+
+Desenvolvedor Web Front-End, formado em análise de sistemas, focado em construir interfaces com
+acessibilidade e design responsivo priorizando usabilidade de usuário, e suas experiências, Possuo
+proficiência em HTML, CSS, JavaScript(ES6+), Typescript, React, NPM, Git, GitHub, para criação de
+interfaces de usuário. Atualmente estou em busca da primeira oportunidade profissional relacionada a areá de desenvolvimento web para atuar
+como desenvolvedor front-end.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
