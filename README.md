@@ -4,20 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
 - 🌱 No momento estou aprendendo
-  - HTML5 
-  - JavaScript
-  - CSS3
-  - React
+  - HTML(Marckup Semantic)
+  - JavaScript(ES6+)
+  - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS)
+  - React.JS  
     - hooks API
     - router-dom library   
     - Context API
   - NPM
-  - BEM Metodology CSS
-  - WEB Acessibility
+  - WEB Acessibility(roles, arias)
   - TypeScript
-  - Server Side
-    - Express/Node
-    - Mongoose
+  - Server Side(Currently studying)
+    - Node/Express
+    - MongoDB/Mongoose
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
