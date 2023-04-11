@@ -16,13 +16,12 @@ como desenvolvedor front-end.
   - React.JS  
     - hooks API
     - router-dom library   
-    - Context API
+    - Context API com reducers
   - NPM
-  - WEB Acessibility(roles, arias)
+  - Vite Tooling Front End, CRA
+  - WEB Acessibility(roles, arias é boas praticas)
   - TypeScript
-  - Server Side(Currently studying)
-    - Node/Express
-    - MongoDB/Mongoose
+  - Framework React Next.js(iniciando estudos)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
