@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou Samuel Amaro</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
-Desenvolvedor Web Front-End, formado em análise de sistemas, focado em construir interfaces com
-acessibilidade e design responsivo priorizando usabilidade de usuário, e suas experiências, Possuo
-proficiência em HTML, CSS, JavaScript(ES6+), Typescript, React, NPM, Git, GitHub, para criação de
-interfaces de usuário. Atualmente estou em busca da primeira oportunidade profissional relacionada a areá de desenvolvimento web para atuar
-como desenvolvedor front-end.
+Desenvolvedor Web Front-End, formado em análise de sistemas, focado em construir interfaces funcionais e
+atraentes com acessibilidade e design responsivo priorizando usabilidade de usuário, Possuo proficiência em
+HTML, CSS, JavaScript(ES6 +), Typescript, React, NPM, Git, GitHub, Next.js, integração com APIS rest usando Fetch API é SWR,
+familiaridade com ferramenta de design como figma para criação de interfaces de usuário.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
@@ -65,13 +65,13 @@ como desenvolvedor front-end.
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Meu Portfólio/Currículo
