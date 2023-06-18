@@ -11,8 +11,9 @@ como desenvolvedor front-end.
 
 - 🌱 No momento estou aprendendo
   - HTML(Marckup Semantic)
+  - Basic SEO(metatags, e OpenGraph)
   - JavaScript(ES6+)
-  - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS)
+  - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS, CSS Modules)
   - React.JS  
     - hooks API
     - router-dom library   
@@ -21,7 +22,11 @@ como desenvolvedor front-end.
   - Vite Tooling Front End, CRA
   - WEB Acessibility(roles, arias é boas praticas)
   - TypeScript
-  - Framework React Next.js(iniciando estudos)
+  - Framework React Next.js(Estudando)
+  - Integração com APIS (usando Fetch API Web, é estudando SWR)
+  - Noções de componentização
+  - Conhecimentos em metodologia ágil
+  - Familiaridade com ferramenta Figma
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
