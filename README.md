@@ -3,14 +3,14 @@
 
 Desenvolvedor Web Front-End, formado em análise de sistemas, focado em construir interfaces funcionais e
 atraentes com acessibilidade e design responsivo priorizando usabilidade de usuário, Possuo proficiência em
-HTML, CSS, JavaScript(ES6 +), Typescript, React, NPM, Git, GitHub, Next.js, integração com APIS rest usando Fetch API é SWR,
+HTML, CSS, JavaScript(ES6 +), Typescript, React, NPM, Vite.js, Git, GitHub, Next.js, integração com APIS rest usando Fetch API é SWR,
 familiaridade com ferramenta de design como figma para criação de interfaces de usuário.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
 - 🌱 No momento estou aprendendo
-  - HTML(Marckup Semantic)
+  - HTML(Marcação semantica)
   - Basic SEO(metatags, e OpenGraph)
   - JavaScript(ES6+)
   - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS, CSS Modules)
@@ -18,15 +18,17 @@ familiaridade com ferramenta de design como figma para criação de interfaces d
     - hooks API
     - router-dom library   
     - Context API com reducers
+    - React-Hook-Forms
   - NPM
   - Vite Tooling Front End, CRA
   - WEB Acessibility(roles, arias é boas praticas)
   - TypeScript
-  - Framework React Next.js(Estudando)
-  - Integração com APIS (usando Fetch API Web, é estudando SWR)
+  - Framework React Next.js
+  - Integração com APIS (usando Fetch API Web, é SWR)
   - Noções de componentização
   - Conhecimentos em metodologia ágil
   - Familiaridade com ferramenta Figma
+  - Estudando Testes no Front-End(Testes de Integração é unitários) usando Jest, React-Testing-Library
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Samuel-Amaro](https://github.com/Samuel-Amaro)
 
