@@ -54,5 +54,5 @@ familiaridade com ferramenta de design como figma para criação de interfaces d
 
 ### Meu Portfólio/Currículo
 
-<a href="https://samuel-amaro.github.io/portfolio-web/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
+<a href="https://meu-portfolio-topaz-alpha.vercel.app/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
 
