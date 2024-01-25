@@ -33,6 +33,7 @@ atraentes com acessibilidade e design responsivo priorizando usabilidade de usu�
   - Svelte
   - SvelteKit
   - PNPM
+  - PostCSS
     
 - 📫 Como chegar até mim **samuelamaro96746313@gmail.com**
 
