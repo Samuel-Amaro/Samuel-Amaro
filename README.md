@@ -1,9 +1,11 @@
 <h1 align="center">Olá 👋, sou Samuel Amaro</h1>
 <h3 align="center">Desenvolvedor Front-End</h3>
 
-Desenvolvedor Front-End, formado em análise de sistemas, focado em construir interfaces funcionais e
-atraentes com acessibilidade e design responsivo priorizando usabilidade de usuário.
+<h3>Sobre Mim</h4>
 
+Sou um desenvolvedor de software com sólida experiência em Front-end, especializado em criar interfaces de usuário intuitivas e responsivas. Tenho uma paixão por desenvolver soluções eficientes e de alta qualidade utilizando tecnologias modernas.
+
+🎓 Formação Acadêmica: Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Goiás.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-amaro&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-amaro" /> </p>
 
@@ -11,49 +13,38 @@ atraentes com acessibilidade e design responsivo priorizando usabilidade de usu�
   - HTML(Marcação semantica)
   - Basic SEO(metatags, e OpenGraph)
   - JavaScript(ES6+)
-  - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS, CSS Modules)
-  - Git/GitHub
+  - CSS(FlexBox, Grid, Responsive Web Design-RWD, Mobile-First, BEM Metodology CSS, CSS Modules, PostCSS)
+  - Git & GitHub & GitHub Workflow
   - React.JS  
     - hooks API
     - router-dom library   
     - Context API com reducers
     - React-Hook-Forms
-  - NPM
+  - NPM, PNPM
   - Vite Tooling Front End, CRA
   - WEB Acessibility(roles, arias é boas praticas, WCAG, APG)
   - TypeScript
-  - Framework React Next.js
+  - Frameworks SvelteKit, Next.js
   - Integração com APIS (usando Fetch API Web, é SWR)
   - Noções de componentização
   - Conhecimentos em metodologia ágil
   - Familiaridade com ferramenta Figma
-  - Testes no Front-End(Testes de Integração é unitários) usando Jest, React-Testing-Library
+  - Testes: Testes unitários, de integração e UI (Jest, Testing Library, Vitest)
 
-- 🚧 No momento venho estudando:
-  - Svelte
-  - SvelteKit
-  - PNPM
-  - PostCSS
+- 🚧 No momento venho estudando sobre desenvolvimento back-end para expandir minhas habilidades:
+  - SQL
+  - PostgreSQL
+  - Node & Bun
+  - Docker
+  - CI/CD (GitHub Actions, Vercel)
+  - TDD
+  - MVC
+  - API Restfull
+  - ORM (Drizzle)
+  - Elysia JS
     
 - 📫 Como chegar até mim **samuelamaro96746313@gmail.com**
 
-## Confira meu perfil da plataforma Front-End Mentor
+## 🌐 Conecte-se Comigo
 
-<p>
-  <a href="https://www.frontendmentor.io/profile/samuel-amaro" target="_blank"> 
-    <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" alt="icon front end mentor" width="40" height="40"/>
-  </a>
-</p>
-
-## Conecte-se comigo
-
-<p align="left">
-  <a href="https://linkedin.com/in/samuel-amaro/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-### Meu Portfólio/Currículo
-
-<a href="https://meu-portfolio-topaz-alpha.vercel.app/" target="_blank" rel="external" title="Portfolio/Curriculum"><img src="https://cdn-icons-png.flaticon.com/128/6388/6388047.png" alt="icon" width="32" height="32"/></a>
-
+Sinta-se à vontade para entrar em contato comigo através do <a href="https://linkedin.com/in/samuel-amaro/" target="blank">LinkedIn</a> ou dar uma olhada no meu <a href="https://meu-portfolio-topaz-alpha.vercel.app/" target="_blank" rel="external" title="Portfolio/Curriculum">portfólio</a>. Estou sempre aberto a novas oportunidades e desafios!
