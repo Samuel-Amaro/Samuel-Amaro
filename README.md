@@ -34,14 +34,12 @@ Sou um desenvolvedor de software com sólida experiência em Front-end, especial
 - 🚧 No momento venho estudando sobre desenvolvimento back-end para expandir minhas habilidades:
   - SQL
   - PostgreSQL
-  - Node & Bun
+  - Node
   - Docker
   - CI/CD (GitHub Actions, Vercel)
   - TDD
   - MVC
   - API Restfull
-  - ORM (Drizzle)
-  - Elysia JS
     
 - 📫 Como chegar até mim **samuelamaro96746313@gmail.com**
 
